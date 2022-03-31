@@ -6,6 +6,8 @@ Although this project code is so unclean because it was my first project to prac
 
 It increased my oop skills, Engineering skills and extremely raised my troubleshooting and debugging skills.
 
+This System was all done In  memory without any storage system like files or database.
+
 Having this project done pushed me towards learning more
 
 # Features
