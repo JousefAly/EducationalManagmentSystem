@@ -25,6 +25,6 @@ Students Can : Register, Login , See Menu of the actions they can do:
 
 Student Actions: Participtae in a class, get menu of  the assignments, solve assignments, know their grades, Get a report of all their classes and grades and final grades. 
 
-There are The Main Features of the system (Not the all).
+These are The Main Features of the system (Not the all).
 
 
